@@ -1,2 +1,2 @@
-# AtlasCohortExchange-ResultImport.ipynb
-Jupyter Notebook for importing cohort inclusion report results into central Atlas instance.
+# AtlasCohortExchange-admin
+Jupyter Notebooks for exporting cohort definitions from, and importing cohort inclusion report results into, a central Atlas instance.
